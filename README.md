@@ -97,7 +97,7 @@ Add the following secrets to your GitHub repository:
 > Make sure Docker, Terraform, and AWS CLI are installed locally (only for manual steps).
 
 ### 1. Clone the Repo
-git clone https://github.com/bhushannikam12/Devops_work.git
+git clone https://github.com/bhushannikam12/Devops_demo_project1.git
 cd devops_demo_project1
 
 ### 2. Build and Test Docker locally
