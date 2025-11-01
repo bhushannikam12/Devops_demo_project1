@@ -6,7 +6,7 @@ This project demonstrates end-to-end DevOps automation to deploy a simple "Hello
 - **Cloud Platform:** AWS ECS with Fargate (serverless container deployment)
 - **Containerization:** Docker
 - **CI/CD Pipeline:** GitHub Actions
-- **Repository:** [GitHub - DevOps_Project](https://github.com/bhushannikam12/Devops_work)
+- **Repository:** [GitHub - DevOps_Project](https://github.com/bhushannikam12/Devops_demo_project1)
 
 ---
 
